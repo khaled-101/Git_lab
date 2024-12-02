@@ -13,4 +13,4 @@ git tag -d "tag"
 # how to delete tag remotly
 git push origin --delete tag_name
 # how to insert an img to your readme file 
-![Git_img](https://commons.wikimedia.org/wiki/File:Git-logo.svg)
+![Git_img](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
